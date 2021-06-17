@@ -21,7 +21,7 @@
 
 <br />
 
-## Languages and Tools:
+## Profile and Tools:
 
 [![Spotify](https://github-readme-stats.vercel.app/api?username=joseviniciusnunes&show_icons=true&hide_border=true)](https://open.spotify.com/user/a973yk2r1or7852lpb1m1p6sf)
 
