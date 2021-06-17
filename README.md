@@ -1,8 +1,7 @@
 ![ViewCount](https://views.whatilearened.today/views/github/joseviniciusnunes/joseviniciusnunes.svg?cache=remove)
 
 <div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
-    <div style="font-size: 18px; margin-right: 15px">Hi there, I'm José Vinicius</div>
-    <img style="border-radius: 15px;" src="https://avatars.githubusercontent.com/u/22475804?s=400&u=b6639685a6c3a6063d33fdfc3ea2a98f58ac9d49&v=4" width="30px">
+    <div style="font-size: 18px; margin-right: 15px">Hi there, I'm José Vinicius</div>    
 </div>
 
 <br />
@@ -18,16 +17,15 @@
 
 <br />
 
-#### Graduated in Systems Analysis and Development at the Integrado University Center of Campo Mourão, specialty in Mobile and Web
+#### Graduated in Systems Analysis and Development at the Integrado University Center of Campo Mourão - PR, specialty in Mobile and Web
 
 <br />
 
 ## Languages and Tools:
 
-<p style="display: flex; flex-direction: row;">
-    <img height="250px" width="55%" align="right" alt="José github stats" src="https://github-readme-stats.vercel.app/api?username=joseviniciusnunes&show_icons=true&hide_border=true"/>
-    <img height="250px" width="55%" align="right" alt="José github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseviniciusnunes&show_icons=true&layout=compact&hide_border=true"/>
-</p>
+[![Spotify](https://github-readme-stats.vercel.app/api?username=joseviniciusnunes&show_icons=true&hide_border=true)](https://open.spotify.com/user/a973yk2r1or7852lpb1m1p6sf)
+
+[![Spotify](https://github-readme-stats.vercel.app/api/top-langs/?username=joseviniciusnunes&show_icons=true&hide_border=true)](https://open.spotify.com/user/a973yk2r1or7852lpb1m1p6sf)
 
 <div style="display: flex; flex-direction: row; flex-wrap: wrap;">
 
@@ -59,16 +57,16 @@
 
 ### React Socket Event
 
-[![Spotify](https://badgen.net/npm/dw/react-socket-event)](https://www.npmjs.com/package/react-socket-event)
+[![Repo](https://badgen.net/npm/dw/react-socket-event)](https://www.npmjs.com/package/react-socket-event)
 
-[![Spotify](https://badgen.net/github/stars/joseviniciusnunes/react-socket-event)](https://www.npmjs.com/package/react-socket-event)
+[![Repo](https://badgen.net/github/stars/joseviniciusnunes/react-socket-event)](https://www.npmjs.com/package/react-socket-event)
 
 ### Qr Code Pix for NodeJS
 
-[![Spotify](https://badgen.net/npm/dw/qrcode-pix)](https://www.npmjs.com/package/qrcode-pix)
+[![Repo](https://badgen.net/npm/dw/qrcode-pix)](https://www.npmjs.com/package/qrcode-pix)
 
-[![Spotify](https://badgen.net/github/stars/joseviniciusnunes/qrcode-pix)](https://www.npmjs.com/package/qrcode-pix)
+[![Repo](https://badgen.net/github/stars/joseviniciusnunes/qrcode-pix)](https://www.npmjs.com/package/qrcode-pix)
 
 ### Realm Data View for Android
 
-[![Spotify](https://badgen.net/github/stars/joseviniciusnunes/realm-data-view)](https://github.com/joseviniciusnunes/realm-data-view)
+[![Repo](https://badgen.net/github/stars/joseviniciusnunes/realm-data-view)](https://github.com/joseviniciusnunes/realm-data-view)
