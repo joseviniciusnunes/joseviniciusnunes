@@ -57,17 +57,23 @@
 
 ## My Open Source Projects
 
+### Qr Code Pix for NodeJS
+
+[![Repo](https://badgen.net/npm/dw/qrcode-pix)](https://www.npmjs.com/package/qrcode-pix)
+
+[![Repo](https://badgen.net/github/stars/joseviniciusnunes/qrcode-pix)](https://www.npmjs.com/package/qrcode-pix)
+
 ### React Socket Event
 
 [![Repo](https://badgen.net/npm/dw/react-socket-event)](https://www.npmjs.com/package/react-socket-event)
 
 [![Repo](https://badgen.net/github/stars/joseviniciusnunes/react-socket-event)](https://www.npmjs.com/package/react-socket-event)
 
-### Qr Code Pix for NodeJS
+### React Native Layout Render
 
-[![Repo](https://badgen.net/npm/dw/qrcode-pix)](https://www.npmjs.com/package/qrcode-pix)
+[![Repo](https://badgen.net/npm/dw/react-native-layout-render)](https://www.npmjs.com/package/react-native-layout-render)
 
-[![Repo](https://badgen.net/github/stars/joseviniciusnunes/qrcode-pix)](https://www.npmjs.com/package/qrcode-pix)
+[![Repo](https://badgen.net/github/stars/joseviniciusnunes/react-native-layout-render)](https://www.npmjs.com/package/react-native-layout-render)
 
 ### Realm Data View for Android
 
