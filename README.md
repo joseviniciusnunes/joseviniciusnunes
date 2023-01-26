@@ -7,9 +7,7 @@
 <br />
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joseviniciusnunes)
-[![Instagram](https://img.shields.io/badge/-Instagram-white?style=flat&labelColor=white&logo=instagram&logoColor=black)](https://www.instagram.com/joseviniciusnunes/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:joseviniciusnunespereira@gmail.com)
-[![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/a973yk2r1or7852lpb1m1p6sf)
 
 <br />
 
