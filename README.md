@@ -21,9 +21,8 @@
 
 ## Profile and Tools:
 
-[![Spotify](https://github-readme-stats.vercel.app/api?username=joseviniciusnunes&show_icons=true&hide_border=true)](https://open.spotify.com/user/a973yk2r1or7852lpb1m1p6sf)
+[![Spotify](https://github-readme-stats.vercel.app/api?username=joseviniciusnunes&show_icons=true&hide_border=true)](https://github-readme-stats.vercel.app/api?username=joseviniciusnunes&show_icons=true&hide_border=true)
 
-[![Spotify](https://github-readme-stats.vercel.app/api/top-langs/?username=joseviniciusnunes&show_icons=true&hide_border=true)](https://open.spotify.com/user/a973yk2r1or7852lpb1m1p6sf)
 
 <div style="display: flex; flex-direction: row; flex-wrap: wrap;">
 
