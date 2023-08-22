@@ -75,3 +75,7 @@
 ### Realm Data View for Android
 
 [![Repo](https://badgen.net/github/stars/joseviniciusnunes/realm-data-view)](https://github.com/joseviniciusnunes/realm-data-view)
+
+### SH Icon Tray
+
+[![Repo](https://badgen.net/github/stars/joseviniciusnunes/sh-icon-tray)](https://github.com/joseviniciusnunes/sh-icon-tray)
